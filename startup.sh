@@ -1,3 +1,5 @@
+#!/bin/sh
+
 if [ ! -f /etc/nginx/nginx.conf ]
 then
     cp -r /etc/nginx.default/* /etc/nginx
