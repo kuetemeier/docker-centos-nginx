@@ -1,4 +1,4 @@
-docker-nginx
-============
+docker-centos-nginx
+===================
 
-Docker Nginx Container
+CentOS Nginx Docker Container
